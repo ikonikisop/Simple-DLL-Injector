@@ -18,3 +18,5 @@
 
 6. **Completion**
    - Once the build process is complete, you’re done!
+
+and yes i used chatgpt because im lazy
